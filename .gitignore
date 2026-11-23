@@ -1,0 +1,23 @@
+# Виртуальные окружения и кэш Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Настройки редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Сохранённые при тестах кадры и видео
+frame_*.png
+screenshot_*.png
+*.mp4
+*.avi
+*.mov
